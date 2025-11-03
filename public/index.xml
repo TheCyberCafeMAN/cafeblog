@@ -1,52 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cafeteria Y Blog Cibernetico</title>
-    <link>https://thecybercafeman.github.io/cafeblog/</link>
-    <description>Recent content on Cafeteria Y Blog Cibernetico</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language>
-    <lastBuildDate>Mon, 03 Nov 2025 17:08:25 -0500</lastBuildDate><atom:link href="https://thecybercafeman.github.io/cafeblog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hola Mundo</title>
-      <link>https://thecybercafeman.github.io/cafeblog/posts/hola-mundo/</link>
-      <pubDate>Mon, 03 Nov 2025 17:08:25 -0500</pubDate>
-      
-      <guid>https://thecybercafeman.github.io/cafeblog/posts/hola-mundo/</guid>
-      <description>&lt;!-- end-chunk --&gt;
-&lt;!-- begin-chunk data-anchor=&#34;hola-mundo&#34; --&gt;
-
-&lt;h1 class=&#34;header-anchor-wrapper&#34;&gt;HOLA MUNDO
-  &lt;a href=&#34;#hola-mundo&#34; class=&#34;header-anchor-link&#34;&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cafeteria Y Blog Cibernetico</title><link>https://thecybercafeman.github.io/cafeblog/</link><description>Recent content on Cafeteria Y Blog Cibernetico</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Mon, 03 Nov 2025 17:08:25 -0500</lastBuildDate><atom:link href="https://thecybercafeman.github.io/cafeblog/index.xml" rel="self" type="application/rss+xml"/><item><title>Hola Mundo</title><link>https://thecybercafeman.github.io/cafeblog/posts/hola-mundo/</link><pubDate>Mon, 03 Nov 2025 17:08:25 -0500</pubDate><guid>https://thecybercafeman.github.io/cafeblog/posts/hola-mundo/</guid><description>&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor="hola-mundo" --&gt;
+&lt;h1 class="header-anchor-wrapper"&gt;HOLA MUNDO
+&lt;a href="#hola-mundo" class="header-anchor-link"&gt;
 &lt;svg
-    xmlns=&#34;http://www.w3.org/2000/svg&#34;
-    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
-    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
-    stroke-linejoin=&#34;round&#34;&gt;
-    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+xmlns="http://www.w3.org/2000/svg"
+width="1rem" height="1rem" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2" stroke-linecap="round"
+stroke-linejoin="round"&gt;
+&lt;line x1="4" y1="9" x2="20" y2="9"&gt;&lt;/line&gt;&lt;line x1="4" y1="15" x2="20" y2="15"&gt;&lt;/line&gt;&lt;line x1="10" y1="3" x2="8" y2="21"&gt;&lt;/line&gt;&lt;line x1="16" y1="3" x2="14" y2="21"&gt;&lt;/line&gt;
 &lt;/svg&gt;
-
 &lt;/a&gt;
 &lt;/h1&gt;
-
 &lt;!-- end-chunk --&gt;
-&lt;!-- begin-chunk data-anchor=&#34;este-es-un-blog-de-prueba-xdxdxd&#34; --&gt;
-
-&lt;h4 class=&#34;header-anchor-wrapper&#34;&gt;ESTE ES UN BLOG DE PRUEBA XDXDXD
-  &lt;a href=&#34;#este-es-un-blog-de-prueba-xdxdxd&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;!-- begin-chunk data-anchor="este-es-un-blog-de-prueba-xdxdxd" --&gt;
+&lt;h4 class="header-anchor-wrapper"&gt;ESTE ES UN BLOG DE PRUEBA XDXDXD
+&lt;a href="#este-es-un-blog-de-prueba-xdxdxd" class="header-anchor-link"&gt;
 &lt;svg
-    xmlns=&#34;http://www.w3.org/2000/svg&#34;
-    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
-    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
-    stroke-linejoin=&#34;round&#34;&gt;
-    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+xmlns="http://www.w3.org/2000/svg"
+width="1rem" height="1rem" viewBox="0 0 24 24" fill="none"
+stroke="currentColor" stroke-width="2" stroke-linecap="round"
+stroke-linejoin="round"&gt;
+&lt;line x1="4" y1="9" x2="20" y2="9"&gt;&lt;/line&gt;&lt;line x1="4" y1="15" x2="20" y2="15"&gt;&lt;/line&gt;&lt;line x1="10" y1="3" x2="8" y2="21"&gt;&lt;/line&gt;&lt;line x1="16" y1="3" x2="14" y2="21"&gt;&lt;/line&gt;
 &lt;/svg&gt;
-
 &lt;/a&gt;
 &lt;/h4&gt;
-
-&lt;p&gt;pare &lt;strong&gt;este&lt;/strong&gt; &lt;em&gt;blog&lt;/em&gt; brutal&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;pare &lt;strong&gt;este&lt;/strong&gt; &lt;em&gt;blog&lt;/em&gt; brutal&lt;/p&gt;</description></item></channel></rss>
