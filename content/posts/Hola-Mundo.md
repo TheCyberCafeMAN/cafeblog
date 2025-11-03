@@ -4,7 +4,9 @@ draft = true
 title = 'Hola Mundo'
 +++
 
-###ESTO ES UN BLOG DE PRUEBA XDXDXDXD
+# HOLA MUNDO
+
+#### ESTE ES UN BLOG DE PRUEBA XDXDXD
 
 pare **este** *blog* brutal
 
