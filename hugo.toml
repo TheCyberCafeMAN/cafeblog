@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://thecybercafeman.github.io/cafeblog/'
 languageCode = 'es-ES'
 title = 'Cafeteria Y Blog Cibernetico'
 theme = 'Monochrome'
