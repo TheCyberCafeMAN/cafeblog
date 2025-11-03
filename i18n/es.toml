@@ -1,0 +1,9 @@
+"tags" = "Etiquetas"
+"recent_posts" = "Post Recientes"
+"toc" = "Tabla de contenidos"
+"no_page_under_resources" = 'There is no page under {{ .resources_path }}. You need to specify "{{ .resources_name }}" correctly and check the existence of posts under this folder.'
+"resources_not_found" = 'Resources not found. You need to specify "{{ .resources_name }}" correctly.'
+"search" = "Buscar Post"
+"changelogs" = "Changelogs"
+"dark_mode_btn_tooltip" = "Cambiar a modo oscuro"
+"light_mode_btn_tooltip" = "Cambiar a modo claro"
