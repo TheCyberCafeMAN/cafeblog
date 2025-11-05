@@ -1,9 +1,0 @@
-
- [[navbar]]
-  identifier = "posts"
-  name = "Posts"
-  url = "/posts/"
-   [[navbar]]
-  identifier = "About"
-  name = "Acerca de.."
-  url = "/about/"

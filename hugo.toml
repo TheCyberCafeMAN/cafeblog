@@ -1,8 +1,7 @@
 baseURL = 'https://thecybercafeman.github.io/cafeblog/'
 languageCode = 'es-ES'
-defaultContentLanguage = "es"
 title = 'Cafeteria Y Blog Cibernetico'
-theme = 'Monochrome'
+theme = 'no-style-please'
 
 [caches]
  [caches.images]
