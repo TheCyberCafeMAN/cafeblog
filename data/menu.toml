@@ -1,19 +1,19 @@
 [[entries]]
-title = "all posts"
+title = "Todo los posts"
 
   [entries.post_list]
   limit = 5
   show_more = true
-  show_more_text = "See archive..."
+  show_more_text = "Mira archivo..."
   show_more_url = "posts"
 
 [[entries]]
-title = "posts by category"
+title = "posts por categoria"
 
   [entries.post_list]
   section = "posts"
   show_more = true
-  show_more_text = "See more posts..."
+  show_more_text = "Mirar mas posts..."
   show_more_url = "posts"
 
 
