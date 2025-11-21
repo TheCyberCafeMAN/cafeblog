@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cafeteria Y Blog Cibernetico</title>
-    <link>https://thecybercafeman.github.io/cafeblog/</link>
+    <link>http://localhost:1313/cafeblog/</link>
     <description>Recent content on Cafeteria Y Blog Cibernetico</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Mon, 03 Nov 2025 17:08:25 -0500</lastBuildDate>
-    <atom:link href="https://thecybercafeman.github.io/cafeblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cafeblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hola Mundo</title>
-      <link>https://thecybercafeman.github.io/cafeblog/posts/hola-mundo/</link>
+      <link>http://localhost:1313/cafeblog/posts/hola-mundo/</link>
       <pubDate>Mon, 03 Nov 2025 17:08:25 -0500</pubDate>
-      <guid>https://thecybercafeman.github.io/cafeblog/posts/hola-mundo/</guid>
+      <guid>http://localhost:1313/cafeblog/posts/hola-mundo/</guid>
       <description>&lt;h1 id=&#34;hola-mundo&#34;&gt;HOLA MUNDO&lt;/h1&gt;&#xA;&lt;h4 id=&#34;este-es-un-blog-de-prueba-xdxdxd&#34;&gt;ESTE ES UN BLOG DE PRUEBA XDXDXD&lt;/h4&gt;&#xA;&lt;p&gt;pare &lt;strong&gt;este&lt;/strong&gt; &lt;em&gt;blog&lt;/em&gt; brutal&lt;/p&gt;&#xA;&lt;p&gt;La pagina fue creado por &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
