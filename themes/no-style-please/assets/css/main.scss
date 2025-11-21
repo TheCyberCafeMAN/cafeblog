@@ -52,7 +52,7 @@
 }
 
 @mixin dark-appearance {
-  @include theme(#000020, #ffffe0, #808000, #ff0000, #800000, #ffff00); // modus-vivendi
+  @include theme(#202020, #808080, #404040, #303030, #181818, #FFFFFF); // modus-vivendi
 }
 
 @mixin light-appearance {

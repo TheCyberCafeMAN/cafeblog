@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cafeteria Y Blog Cibernetico</title>
-    <link>http://localhost:1313/cafeblog/categories/</link>
+    <link>https://thecybercafeman.github.io/cafeblog/categories/</link>
     <description>Recent content in Categories on Cafeteria Y Blog Cibernetico</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <atom:link href="http://localhost:1313/cafeblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thecybercafeman.github.io/cafeblog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
