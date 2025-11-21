@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cafeblog/posts/hola-mundo/</loc>
+    <loc>https://thecybercafeman.github.io/cafeblog/posts/hola-mundo/</loc>
     <lastmod>2025-11-03T17:08:25-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cafeblog/posts/</loc>
+    <loc>https://thecybercafeman.github.io/cafeblog/posts/</loc>
     <lastmod>2025-11-03T17:08:25-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cafeblog/</loc>
+    <loc>https://thecybercafeman.github.io/cafeblog/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cafeblog/categories/</loc>
+    <loc>https://thecybercafeman.github.io/cafeblog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/cafeblog/tags/</loc>
+    <loc>https://thecybercafeman.github.io/cafeblog/tags/</loc>
   </url>
 </urlset>
